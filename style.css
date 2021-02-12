@@ -1,0 +1,73 @@
+body{}
+
+.main{}
+
+.top{width:1300px; height:150px; border:2px solid #0000FF; border-radius:20px 20px 0 0; background:url(images/dark_embroidery.png);}
+
+.logo{float:left;}
+
+.logo h2{color:#FFFFFF; padding-top:40px; padding-left:100px; text-align:center;}
+
+.slogon{float:right;}
+
+.slogon h2{padding-top:40px; padding-right:100px; color:#FFFFFF;}
+
+.banner{}
+
+.banner img{width:1300px; height:400px;}
+
+.menu{background:url(images/dark_embroidery.png); width:1300px; height:70px; float:left;}
+
+.menu ul{}
+
+.menu ul li{list-style:none; float:left; font-size:25px; padding-left:100px;}
+
+.menu ul li a{text-decoration:none; color:#FFFFFF;}
+
+.menu ul li a:hover{color:#FFFF00; text-decoration:underline;}
+
+.left{width:300px;float:left;}
+
+.left h2{background:#000000; color:#FFFFFF; padding:10px; text-align:center;}
+
+.left p{}
+
+.middle{width:700px; float:left;}
+
+.dir{}
+
+.dir h2{background:#000000; color:#FFFFFF; padding:10px; text-align:center;}
+
+.dir img{width:150px; height:150px; padding-left:10px; float:left; padding-right:10px;}
+
+.dir p{text-align:justify; line-height:25px;}
+
+.right{float:left; width:300px;}
+
+.right img{width:280px; padding-left:10px; height:400px;}
+
+.right h2{background:#000000; color:#FFFFFF; padding:10px; text-align:center;}
+
+.footer{background:url(images/dark_embroidery.png); width:1300px; height:300px; float:left;}
+
+.social{color:#FFFFFF; float:left; padding-left:10px;}
+
+.social h2{}
+
+.social ul{}
+
+.social ul li{line-height:30px; border-bottom:2px dotted #CCCCCC;}
+
+.social ul li a{color:#FFFFFF; text-decoration:none;}
+
+.social ul li a:hover{color:#00FF00;}
+
+.address{color:#FFFFFF; float:left; padding-left:250px; width:300px;text-align:center;}
+
+.address h2{}
+
+.address p{line-height:25px;}
+
+.intro{color:#FFFFFF; float:right; padding-right:20px;}
+
+.intro h3{}
